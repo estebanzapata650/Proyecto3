@@ -1,0 +1,29 @@
+:root{
+    --write : #fff;
+    --red: rgb(186, 16, 16);
+}
+
+/*Selector universal*/
+*{
+    box-sizing: border-box; /*Agrega ciertos estilos al renderizar el navegador*/
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%; /*Para utilizar rem (medida relativa en vez de px)*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    color: var(--red);
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 1.2rem;
+}
