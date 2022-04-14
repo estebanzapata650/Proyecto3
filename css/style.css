@@ -1,6 +1,7 @@
 :root{
     --write : #fff;
     --red: rgb(186, 16, 16);
+    --black: #333;
 }
 
 /*Selector universal*/
@@ -19,11 +20,29 @@ body{
     text-align: center;
 }
 
+.main-container{
+    height: 100vh;
+    display: flex;
+}
+
+.container{
+    width: 70%;
+    border: 1px solid var(--black);
+    margin: auto;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    word-wrap: break-word;
+    padding: 5px;
+} 
+
 h1{
     color: var(--red);
     margin-bottom: 5px;
 }
-
+ 
 p{
     font-size: 1.2rem;
 }
