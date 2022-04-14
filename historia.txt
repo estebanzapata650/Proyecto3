@@ -1,4 +1,3 @@
 Este es un ejemplo de manejo con Git
 
-Soy Esteban Zapata
-I am 32 years old
+I am Esteban Zapata and i am 32 years old
