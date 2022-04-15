@@ -1,6 +1,6 @@
 :root{
     --write : #fff;
-    --red: rgb(100, 53, 53);
+    --red: rgb(255, 0, 0);
     --black: #333;
 }
 
@@ -13,7 +13,7 @@
 
 html{
     font-size: 62.5%; /*Para utilizar rem (medida relativa en vez de px)*/
-    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 body{
