@@ -57,6 +57,11 @@ p{
     display: flex;
 }
 
+.main-container p{
+    padding: 5px;
+    text-align: justify;
+}
+
 .container{
     width: 70%;
     border: 1px solid var(--black);
