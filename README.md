@@ -2,7 +2,7 @@
 
 Un proyecto de pruebas para aprender Git y GitHub
 
-> Un excelente curso de Git y GitHun en Platzi
+> Un excelente curso de Git y GitHub en Platzi
 > - Super recomendado
 
 ## En este curso vemos de todo
