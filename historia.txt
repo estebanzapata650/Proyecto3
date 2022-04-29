@@ -2,6 +2,6 @@ Este es un ejemplo de manejo con Git
 
 I am Esteban Zapata and i am 32 years old
 
-Main One
+Experimento 1
 
-Main 2
+Main One
